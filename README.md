@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning: 
   - Tilted ring modeling for studying HI gas kinematics in interacting galaxies in groups
   - Optical Emission line spectroscopy
+  - Blender for 3D Astronomy data visualization
   - About navigating the night sky in the southern hemisphere
 - :school_satchel: Some things currently in my bag of tricks:
   - Radio data reduction and analysis (stack: CASA, SoFiA2, AstroSlicer, CARTA, SpectralCube, Astropy, 3DBarrolo)
